@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
   - {file: "blog.md",  title: "Blog"}
+  - {file: "raspi.md",  title: "Ras Pi & CV"}
   - {file: "projects.md",  title: "Projects"}
   - {url: "/DanielGe_Math_Resume.pdf",  title: "CV"}
 
