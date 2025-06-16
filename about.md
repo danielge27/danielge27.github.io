@@ -8,9 +8,9 @@ permalink: /about/
 
 I’m a rising junior at Sharon High School and I love math.  I enjoy the intersection of elegant proofs and hands-on computation, and I’m eager to conduct mathematical research this summer on topics such as (but not limited to) number theory, combinatorics, or computational mathematics. Here are some of my math results!
 
-2025 USAJMO Qualifier
-American Regions Math League (ARML) Div B: 1st in region, 3rd nationally
-Berkeley Math Tournament: Distinguished Honorable Mention 
+1. **2025 USAJMO Qualifier**  
+2. **2025 American Regions Math League (ARML) Div B: 1st in region, 3rd nationally**
+3. **Berkeley Math Tournament: Distinguished Honorable Mention**
 
 Outside of math, I like to play frisbee and explore physics. I also teach chess and participate in various clubs.
 
