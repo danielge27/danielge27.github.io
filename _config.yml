@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md",  title: "Blog"}
   - {file: "raspi.md",  title: "Ras Pi & CV"}
   - {file: "projects.md",  title: "Projects"}
-  - {url: "/DanielGe_Math_Resume.pdf",  title: "CV"}
+  - {url: "/Daniel_Resume_061525.pdf",  title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "malito:Danielge08@gmail.com"}
