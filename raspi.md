@@ -6,12 +6,9 @@ permalink: /raspi/
 
 ### Raspberry Pi and Computer Vision   
 - **Thanks:** to a summer camp offered by "Harvard T.H. Chan School of Public Health- [CELEHS - Machine Learning for Self-Driving Cars](https://dbmi.hms.harvard.edu/news/data-science-action-self-driving-cars)" in Summer 2023, I was inspired to play [Rasperry PI](https://www.raspberrypi.com/). I self-learned the application of [You Only Look Once (YOLO)] (https://roboflow.com/) for interesting Compter Vision (CV) applications, and I was passionated by it potential application, especially on edge computing like Rasperry Pi.
-  
-- **goal:** I enjoys Computer Vision's applications on Raspberry Pi, and the magic behind. I'd like to contribute **8–10** hours/week during 2025 summer, to work on interesting Computer Vision, or Raspberry Pi projects.  
-
 
   
-![Self driving cars.jpeg](/assets/images/Self driving cars.png)
+![Self driving cars.jpeg](/assets/images/Self driving cars.png) 
 
 Here are some interesting models I have trained / implemented, which runs on a Raspberry Pi 5 computer. 
 
