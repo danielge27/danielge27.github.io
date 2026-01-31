@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: "About"}
   - {file: "blog.md",  title: "Blog"}
   - {file: "raspi.md",  title: "Ras Pi & CV"}
+  - {file: "cubeagle.md",  title: "Cubeagle"}
   - {file: "projects.md",  title: "Projects"}
   - {url: "/Daniel_Resume_061525.pdf",  title: "CV"}
 
