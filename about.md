@@ -40,5 +40,5 @@ I’m excited to jump into coding simulations, verifying small-case proofs, or s
 
 - **Email:** [danielge08@gmail.com](mailto:danielge08@gmail.com)  
 - **Resume:** [Download PDF](/DanielGe_Math_Resume.pdf)  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
+- **GitHub:** [github.com/your-username](https://github.com/danielge27)  
 
