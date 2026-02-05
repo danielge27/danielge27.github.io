@@ -22,7 +22,7 @@ Roadmap
 I have label some some utltimate frisbee player photos for modeling training purposes. (link: https://universe.roboflow.com/daniel-ge-2a9nv/frisbee-rdewi/dataset/2) 
 
 ###  Player detection on PC webcam using YOLO 11. 
-Here is a video of how it works , by using a PC webcamp to "watch" a ultimate-frisbee game. 
+[Here is a video of how it works , by using a PC webcamp to "watch" a ultimate-frisbee game. 
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
     src="https://www.youtube.com/embed/2_1vvKpzgwU"
@@ -30,7 +30,7 @@ Here is a video of how it works , by using a PC webcamp to "watch" a ultimate-fr
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
-</iframe>
+</iframe>](https://github.com/danielge27/danielge27.github.io/edit/main/Ultiboard.md)
 
 
 
