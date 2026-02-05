@@ -19,10 +19,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
-  - {file: "blog.md",  title: "Math Blog"}
+  - {file: "ultiboard.md",  title: "Ulti-board"}
   - {file: "raspi.md",  title: "Ras Pi & CV"}
   - {file: "cubeagle.md",  title: "Cubeagle"}
   - {file: "projects.md",  title: "Other Projects"}
+  - {file: "blog.md",  title: "Math Blog"}
   - {url: "/Daniel_Resume_061525.pdf",  title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
