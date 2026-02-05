@@ -5,16 +5,18 @@ permalink: /ultiboard/
 ---
 
 ### Introduction 
-- I am a varsity Ultimate Frisbee player at Sharon High School, and before Ultimate, I played ice hockey, where coaches regularly used tactical boards to teach and execute strategy. In contrast, I have not seen a similar real-time tactical tool used in Ultimate Frisbee. After learning AI and computer vision through summer programs, I realized these tools could fill that gap by tracking players and the frisbee disc in real time. This data-driven e-tactics board would give coaches immediate tactical insight and improve decision-making during games.
+- I am a varsity Ultimate Frisbee player at Sharon High School, and before Ultimate, I played ice hockey, where coaches regularly used tactical boards to teach strategies and make in-game decisions. In contrast, I have not seen a similar real-time tactical tool used in Ultimate Frisbee. After learning AI and computer vision through a few AI-topiced summer programs, I realized these tools could fill that gap by tracking players and the frisbee disc in real time. This data-driven e-tactics board would give coaches immediate tactical insight and improve decision-making during games.
   
 ![Uti-board concept](/assets/images/Ulti-board.png) 
 Concept photo generate by ChatGPT
 
 ### Roadmap 
 
-Inspired by videos from Roboflow(link), on how to deploy a YOLO to build a computer vision to track and analyze soccor game video, I'd like to build one for Ultimate frisbee games.  Below is my idea of roadmap
-![Player_tracking](/assets/images/utliboard_diagram.png) 
+Inspired by Roboflow tutorials on deploying YOLO-based computer vision to track and analyze soccer game footage, I aim to build a similar system tailored specifically for Ultimate Frisbee. Below is the proposed development roadmap, starting with player tracking.
 
+
+![Player_tracking](/assets/images/utliboard_diagram.png) 
+Roadmap
 
 ###  Ultimate frisbee player detection training dataset 
 I have label some some utltimate frisbee player photos for modeling training purposes. (link: https://universe.roboflow.com/daniel-ge-2a9nv/frisbee-rdewi/dataset/2) 
