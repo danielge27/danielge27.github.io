@@ -24,10 +24,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cubeagle.md",  title: "Cubeagle"}
   - {file: "projects.md",  title: "Other Projects"}
   - {file: "blog.md",  title: "Math Blog"}
-  - {url: "/Daniel_Resume_061525.pdf",  title: "CV"}
+  - {url: "/Daniel_Resume_061525.pdf",  title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "malito:Danielge08@gmail.com"}
+  - {title: Mail, icon: envelope, url: "malito: Danielge08@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/danielge27"}
   - {title: "Instagram",  icon: instagram,  url: "https://www.instagram.com/daniel.g.ge/" }
 
