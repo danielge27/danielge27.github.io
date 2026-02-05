@@ -6,9 +6,13 @@ permalink: /ultiboard/
 
 ### Introddction 
 - I am a varsity Ultimate Frisbee player at Sharon High School, and before Ultimate, I played ice hockey, where coaches regularly used tactical boards to teach and execute strategy. In contrast, I have not seen a similar real-time tactical tool used in Ultimate Frisbee. After learning AI and computer vision through summer programs, I realized these tools could fill that gap by tracking players and the frisbee disc in real time. This data-driven e-tactics board would give coaches immediate tactical insight and improve decision-making during games.
-
   
-![Self driving cars.jpeg](/assets/images/Self driving cars.png) 
+![Uti-board concept](/assets/images/Ulti-board.png) 
+![Player_detection](/assets/images/ulti_player_with_tracking.png) 
+![Player_tracking](/assets/images/ulti_player_as_dot.png) 
+
+
+Concept of Utimate frisbee 
 
 Here are some interesting models I have trained / implemented, which runs on a Raspberry Pi 5 computer. 
 
