@@ -19,7 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
-  - {file: "ultiboard.md",  title: "Ulti-board"}
+  - {file: "Ultiboard.md",  title: "Ulti-board"}
   - {file: "raspi.md",  title: "Ras Pi & CV"}
   - {file: "cubeagle.md",  title: "Cubeagle"}
   - {file: "projects.md",  title: "Other Projects"}
